@@ -6,5 +6,4 @@ I am also actively looking for a Software Engineer internship for the Summer 202
 I am currently working at Target as a part-time Fulfillment Associate.
 
 I've mainly used C and C++ so far in my coding career, but I've also worked with SQL and Java as well.
-
 Languages: C, C++
