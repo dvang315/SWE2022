@@ -7,5 +7,5 @@ I'm actively looking for a Software Engineer internship for the Summer 2023, but
 I've mainly used C and C++ so far in my coding career, but I've also worked with SQL and Java as well.
 Languages: C, C++
 
-Link to actual Repo: https://github.com/dvang315/Project-Portfolio \
+Link to actual Portfolio Repo: https://github.com/dvang315/Project-Portfolio \
 ** Wasn't too sure if it'd work **
