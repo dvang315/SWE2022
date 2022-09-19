@@ -5,3 +5,5 @@ I am currently a senior at the Univerisity of Akron pursuing a Bachelor's in Com
 I am also actively looking for a Software Engineer internship for the Summer 2023. 
 I've mainly used C and C++ so far in my coding career, but I've also worked with SQL and Java as well.\
 Languages: C, C++
+
+@Kilgallin
