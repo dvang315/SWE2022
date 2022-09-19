@@ -1,5 +1,8 @@
-# Leetcode Solutions
-## Username: DVang315
+# Palindrome Number - leet code Description
 
-This folder contains the solutions to any leet code problem that I worked on and 
-got to work successfully. I am coding in C++ at the moment!
+Given an integer x, return true if x is palindrome integer.
+
+An integer is a palindrome when it reads the same backward as forward.
+
+For example, 121 is a palindrome while 123 is not.
+
