@@ -8,4 +8,4 @@ I've mainly used C and C++ so far in my coding career, but I've also worked with
 Languages: C, C++
 
 Link to actual Repo: https://github.com/dvang315/Project-Portfolio
-* Wasn't too sure if it'd work *
+** Wasn't too sure if it'd work **
